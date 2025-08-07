@@ -17,16 +17,6 @@ I customized this project to showcase real-world product metrics using SQL and d
 
 ---
 
-## 🧠 About the Data
-
-The dataset is simulated and includes users, orders, and payments from a fictional online store.
-
-Here’s the simplified ERD:
-
-![Jaffle Shop ERD](/etc/jaffle_shop_erd.png)
-
----
-
 ## 🛠 Tech Stack
 
 - dbt (data build tool)
