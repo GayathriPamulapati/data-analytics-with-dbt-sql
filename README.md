@@ -21,7 +21,7 @@ I customized this project to showcase real-world product metrics using SQL and d
 
 - dbt (data build tool)
 - SQL (PostgreSQL or BigQuery)
-- Optional: Tableau/Power BI for dashboarding
+- Power BI for dashboarding
 
 ---
 
